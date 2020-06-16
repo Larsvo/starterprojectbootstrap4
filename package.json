@@ -1,0 +1,32 @@
+{
+  "name": "starterproject",
+  "version": "1.0.0",
+  "description": "Starter Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larsvo/StarterProject.git"
+  },
+  "keywords": [
+    "Frontend",
+    "Starter",
+    "Project"
+  ],
+  "author": "Lars van Ommeren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larsvo/StarterProject/issues"
+  },
+  "homepage": "https://github.com/Larsvo/StarterProject#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
