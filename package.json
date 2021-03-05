@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/Larsvo/StarterProject#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.14",
     "gulp-sass": "^4.1.0",
     "node-sass": "^4.14.1"
   },
   "dependencies": {
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.6.0",
     "gulp": "^4.0.2",
     "jquery": "^3.5.1",
     "popper": "^1.0.1"
